@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Gipsz Jakab",
+    "born": "2000-01-01",
+    "department": "IT",
+    "salary": 799000,
+    "enableHomeOffice": true,
+    "photoUrl": ""
+  },
+  {
+    "name": "Winch Eszter",
+    "born": "2001-01-01",
+    "department": "HR",
+    "salary": 799000,
+    "enableHomeOffice": false,
+    "photoUrl": ""
+  }
+]

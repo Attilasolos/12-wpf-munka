@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "T:\\Bogn\u00E1r P\u00E1l\\12A - Asztali alk fejleszt\u00E9se\\2026-01-08 Dolgoz\u00F3k\\Employees\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C399E961-5407-424D-A681-960124064C0F}|Employees.csproj|t:\\bogn\u00E1r p\u00E1l\\12a - asztali alk fejleszt\u00E9se\\2026-01-08 dolgoz\u00F3k\\employees\\employeewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C399E961-5407-424D-A681-960124064C0F}|Employees.csproj|solutionrelative:employeewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C399E961-5407-424D-A681-960124064C0F}|Employees.csproj|t:\\bogn\u00E1r p\u00E1l\\12a - asztali alk fejleszt\u00E9se\\2026-01-08 dolgoz\u00F3k\\employees\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C399E961-5407-424D-A681-960124064C0F}|Employees.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C399E961-5407-424D-A681-960124064C0F}|Employees.csproj|t:\\bogn\u00E1r p\u00E1l\\12a - asztali alk fejleszt\u00E9se\\2026-01-08 dolgoz\u00F3k\\employees\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C399E961-5407-424D-A681-960124064C0F}|Employees.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C399E961-5407-424D-A681-960124064C0F}|Employees.csproj|t:\\bogn\u00E1r p\u00E1l\\12a - asztali alk fejleszt\u00E9se\\2026-01-08 dolgoz\u00F3k\\employees\\employees.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C399E961-5407-424D-A681-960124064C0F}|Employees.csproj|solutionrelative:employees.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C399E961-5407-424D-A681-960124064C0F}|Employees.csproj|t:\\bogn\u00E1r p\u00E1l\\12a - asztali alk fejleszt\u00E9se\\2026-01-08 dolgoz\u00F3k\\employees\\employeewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C399E961-5407-424D-A681-960124064C0F}|Employees.csproj|solutionrelative:employeewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 303,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employees.json",
+              "DocumentMoniker": "T:\\Bogn\u00E1r P\u00E1l\\12A - Asztali alk fejleszt\u00E9se\\2026-01-08 Dolgoz\u00F3k\\Employees\\Employees.json",
+              "RelativeDocumentMoniker": "Employees.json",
+              "ToolTip": "T:\\Bogn\u00E1r P\u00E1l\\12A - Asztali alk fejleszt\u00E9se\\2026-01-08 Dolgoz\u00F3k\\Employees\\Employees.json",
+              "RelativeToolTip": "Employees.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-15T09:17:48.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeWindow.xaml.cs",
+              "DocumentMoniker": "T:\\Bogn\u00E1r P\u00E1l\\12A - Asztali alk fejleszt\u00E9se\\2026-01-08 Dolgoz\u00F3k\\Employees\\EmployeeWindow.xaml.cs",
+              "RelativeDocumentMoniker": "EmployeeWindow.xaml.cs",
+              "ToolTip": "T:\\Bogn\u00E1r P\u00E1l\\12A - Asztali alk fejleszt\u00E9se\\2026-01-08 Dolgoz\u00F3k\\Employees\\EmployeeWindow.xaml.cs",
+              "RelativeToolTip": "EmployeeWindow.xaml.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAvwCIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T11:02:43.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeWindow.xaml",
+              "DocumentMoniker": "T:\\Bogn\u00E1r P\u00E1l\\12A - Asztali alk fejleszt\u00E9se\\2026-01-08 Dolgoz\u00F3k\\Employees\\EmployeeWindow.xaml",
+              "RelativeDocumentMoniker": "EmployeeWindow.xaml",
+              "ToolTip": "T:\\Bogn\u00E1r P\u00E1l\\12A - Asztali alk fejleszt\u00E9se\\2026-01-08 Dolgoz\u00F3k\\Employees\\EmployeeWindow.xaml",
+              "RelativeToolTip": "EmployeeWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-08T10:12:48.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "T:\\Bogn\u00E1r P\u00E1l\\12A - Asztali alk fejleszt\u00E9se\\2026-01-08 Dolgoz\u00F3k\\Employees\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "T:\\Bogn\u00E1r P\u00E1l\\12A - Asztali alk fejleszt\u00E9se\\2026-01-08 Dolgoz\u00F3k\\Employees\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-08T08:59:36.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "T:\\Bogn\u00E1r P\u00E1l\\12A - Asztali alk fejleszt\u00E9se\\2026-01-08 Dolgoz\u00F3k\\Employees\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "T:\\Bogn\u00E1r P\u00E1l\\12A - Asztali alk fejleszt\u00E9se\\2026-01-08 Dolgoz\u00F3k\\Employees\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAIwF8AAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T08:59:33.693Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

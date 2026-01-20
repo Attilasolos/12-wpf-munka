@@ -1,0 +1,35 @@
+﻿<Window x:Class="Valasztasok.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Valasztasok"
+        mc:Ignorable="d"
+        Title="Választások" Height="446" Width="570" FontSize="16" 
+        ResizeMode="NoResize" Loaded="Window_Loaded">
+    <Grid>
+        <Label Name="lbl2" Content="2. feladat:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+        <Label Content="3. feladat: Képviselő neve:" HorizontalAlignment="Left" Margin="10,46,0,0" VerticalAlignment="Top"/>
+        <TextBox Name="txtName" HorizontalAlignment="Left" 
+                 Margin="206,49,0,0" TextWrapping="Wrap" Text="" 
+                 VerticalAlignment="Top" Width="271" TextChanged="txtName_TextChanged" />
+        <Button Name="btnSearch" Content="Keresés" HorizontalAlignment="Left" 
+                Margin="482,49,0,0" VerticalAlignment="Top" Width="74" 
+                Click="btnSearch_Click" />
+        <Label Name="lbl3" Content="A jelölt...&#xD;&#xA;Kapott..." HorizontalAlignment="Left" 
+               Margin="206,78,0,0" VerticalAlignment="Top" Width="350" Height="57"/>
+        <Label Name="lbl4" Content="4. feladat:" HorizontalAlignment="Center" 
+               Margin="0,140,0,0" VerticalAlignment="Top" Width="550"/>
+        <Label Content="6. feladat:" HorizontalAlignment="Left" Margin="10,176,0,0" VerticalAlignment="Top"/>
+        <ListBox Name="lst6" Margin="93,183,14,107"/>
+        <Label Content="7. feladat:" HorizontalAlignment="Left" Margin="10,324,0,0" VerticalAlignment="Top" Width="78"/>
+        <ComboBox Name="cboParty" HorizontalAlignment="Left" 
+                  Margin="93,328,0,0" VerticalAlignment="Top" Width="384" SelectionChanged="cboParty_SelectionChanged"/>
+        <Label Name="lbl7" Content="A párt indulói között a legtöbb szavazatot szerezte..." HorizontalAlignment="Left" Margin="93,360,0,0" VerticalAlignment="Top"/>
+
+
+
+
+
+    </Grid>
+</Window>
