@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "T:\\Bognár Pál\\12A - Asztali alk fejlesztése\\2026-01-08 Dolgozók\\Employees\\Employees.csproj": {}
+    "Z:\\prog\\12. A aaft\\12-wpf-munka\\2026-01-08 Dolgozók\\Employees\\Employees.csproj": {}
   },
   "projects": {
-    "T:\\Bognár Pál\\12A - Asztali alk fejlesztése\\2026-01-08 Dolgozók\\Employees\\Employees.csproj": {
+    "Z:\\prog\\12. A aaft\\12-wpf-munka\\2026-01-08 Dolgozók\\Employees\\Employees.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "T:\\Bognár Pál\\12A - Asztali alk fejlesztése\\2026-01-08 Dolgozók\\Employees\\Employees.csproj",
+        "projectUniqueName": "Z:\\prog\\12. A aaft\\12-wpf-munka\\2026-01-08 Dolgozók\\Employees\\Employees.csproj",
         "projectName": "Employees",
-        "projectPath": "T:\\Bognár Pál\\12A - Asztali alk fejlesztése\\2026-01-08 Dolgozók\\Employees\\Employees.csproj",
-        "packagesPath": "C:\\Users\\bognar.pal\\.nuget\\packages\\",
-        "outputPath": "T:\\Bognár Pál\\12A - Asztali alk fejlesztése\\2026-01-08 Dolgozók\\Employees\\obj\\",
+        "projectPath": "Z:\\prog\\12. A aaft\\12-wpf-munka\\2026-01-08 Dolgozók\\Employees\\Employees.csproj",
+        "packagesPath": "C:\\Users\\zsigmond.attila.lasz\\.nuget\\packages\\",
+        "outputPath": "Z:\\prog\\12. A aaft\\12-wpf-munka\\2026-01-08 Dolgozók\\Employees\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\bognar.pal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\zsigmond.attila.lasz\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

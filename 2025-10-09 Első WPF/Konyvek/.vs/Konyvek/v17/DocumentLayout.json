@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "T:\\Bogn\u00E1r P\u00E1l\\12A - Asztali alk fejleszt\u00E9se\\2025-10-09 Els\u0151 WPF\\Konyvek\\",
+  "WorkspaceRootPath": "Z:\\prog\\12. A aaft\\12-wpf-munka\\2025-10-09 Els\u0151 WPF\\Konyvek\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{65867692-CA52-4A29-BCDA-04EF9C58781A}|Konyvek.csproj|t:\\bogn\u00E1r p\u00E1l\\12a - asztali alk fejleszt\u00E9se\\2025-10-09 els\u0151 wpf\\konyvek\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{65867692-CA52-4A29-BCDA-04EF9C58781A}|Konyvek.csproj|z:\\prog\\12. a aaft\\12-wpf-munka\\2025-10-09 els\u0151 wpf\\konyvek\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65867692-CA52-4A29-BCDA-04EF9C58781A}|Konyvek.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65867692-CA52-4A29-BCDA-04EF9C58781A}|Konyvek.csproj|t:\\bogn\u00E1r p\u00E1l\\12a - asztali alk fejleszt\u00E9se\\2025-10-09 els\u0151 wpf\\konyvek\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{65867692-CA52-4A29-BCDA-04EF9C58781A}|Konyvek.csproj|z:\\prog\\12. a aaft\\12-wpf-munka\\2025-10-09 els\u0151 wpf\\konyvek\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65867692-CA52-4A29-BCDA-04EF9C58781A}|Konyvek.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65867692-CA52-4A29-BCDA-04EF9C58781A}|Konyvek.csproj|t:\\bogn\u00E1r p\u00E1l\\12a - asztali alk fejleszt\u00E9se\\2025-10-09 els\u0151 wpf\\konyvek\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{65867692-CA52-4A29-BCDA-04EF9C58781A}|Konyvek.csproj|z:\\prog\\12. a aaft\\12-wpf-munka\\2025-10-09 els\u0151 wpf\\konyvek\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{65867692-CA52-4A29-BCDA-04EF9C58781A}|Konyvek.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -22,46 +22,40 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Book.cs",
-              "DocumentMoniker": "T:\\Bogn\u00E1r P\u00E1l\\12A - Asztali alk fejleszt\u00E9se\\2025-10-09 Els\u0151 WPF\\Konyvek\\Book.cs",
+              "DocumentMoniker": "Z:\\prog\\12. A aaft\\12-wpf-munka\\2025-10-09 Els\u0151 WPF\\Konyvek\\Book.cs",
               "RelativeDocumentMoniker": "Book.cs",
-              "ToolTip": "T:\\Bogn\u00E1r P\u00E1l\\12A - Asztali alk fejleszt\u00E9se\\2025-10-09 Els\u0151 WPF\\Konyvek\\Book.cs",
+              "ToolTip": "Z:\\prog\\12. A aaft\\12-wpf-munka\\2025-10-09 Els\u0151 WPF\\Konyvek\\Book.cs",
               "RelativeToolTip": "Book.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T08:08:14.027Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-16T08:08:14.027Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "T:\\Bogn\u00E1r P\u00E1l\\12A - Asztali alk fejleszt\u00E9se\\2025-10-09 Els\u0151 WPF\\Konyvek\\MainWindow.xaml",
+              "DocumentMoniker": "Z:\\prog\\12. A aaft\\12-wpf-munka\\2025-10-09 Els\u0151 WPF\\Konyvek\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "T:\\Bogn\u00E1r P\u00E1l\\12A - Asztali alk fejleszt\u00E9se\\2025-10-09 Els\u0151 WPF\\Konyvek\\MainWindow.xaml",
+              "ToolTip": "Z:\\prog\\12. A aaft\\12-wpf-munka\\2025-10-09 Els\u0151 WPF\\Konyvek\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-09T08:15:16.486Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-09T08:15:16.486Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "T:\\Bogn\u00E1r P\u00E1l\\12A - Asztali alk fejleszt\u00E9se\\2025-10-09 Els\u0151 WPF\\Konyvek\\MainWindow.xaml.cs",
+              "DocumentMoniker": "Z:\\prog\\12. A aaft\\12-wpf-munka\\2025-10-09 Els\u0151 WPF\\Konyvek\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "T:\\Bogn\u00E1r P\u00E1l\\12A - Asztali alk fejleszt\u00E9se\\2025-10-09 Els\u0151 WPF\\Konyvek\\MainWindow.xaml.cs",
+              "ToolTip": "Z:\\prog\\12. A aaft\\12-wpf-munka\\2025-10-09 Els\u0151 WPF\\Konyvek\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAgwFEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwFEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-09T08:15:12.792Z",
               "EditorCaption": ""
