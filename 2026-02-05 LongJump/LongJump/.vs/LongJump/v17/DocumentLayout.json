@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\prog\\12. A aaft\\2026-02-05 LongJump\\LongJump\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9DDAFE-1B8E-44A1-AC32-1BC1B5BC6C26}|LongJump\\LongJump.csproj|z:\\prog\\12. a aaft\\2026-02-05 longjump\\longjump\\longjump\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C9DDAFE-1B8E-44A1-AC32-1BC1B5BC6C26}|LongJump\\LongJump.csproj|solutionrelative:longjump\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9DDAFE-1B8E-44A1-AC32-1BC1B5BC6C26}|LongJump\\LongJump.csproj|z:\\prog\\12. a aaft\\2026-02-05 longjump\\longjump\\longjump\\entrieswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C9DDAFE-1B8E-44A1-AC32-1BC1B5BC6C26}|LongJump\\LongJump.csproj|solutionrelative:longjump\\entrieswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9DDAFE-1B8E-44A1-AC32-1BC1B5BC6C26}|LongJump\\LongJump.csproj|z:\\prog\\12. a aaft\\2026-02-05 longjump\\longjump\\longjump\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7C9DDAFE-1B8E-44A1-AC32-1BC1B5BC6C26}|LongJump\\LongJump.csproj|solutionrelative:longjump\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9DDAFE-1B8E-44A1-AC32-1BC1B5BC6C26}|LongJump\\LongJump.csproj|z:\\prog\\12. a aaft\\2026-02-05 longjump\\longjump\\longjump\\entrieswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7C9DDAFE-1B8E-44A1-AC32-1BC1B5BC6C26}|LongJump\\LongJump.csproj|solutionrelative:longjump\\entrieswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9DDAFE-1B8E-44A1-AC32-1BC1B5BC6C26}|LongJump\\LongJump.csproj|z:\\prog\\12. a aaft\\2026-02-05 longjump\\longjump\\longjump\\competitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C9DDAFE-1B8E-44A1-AC32-1BC1B5BC6C26}|LongJump\\LongJump.csproj|solutionrelative:longjump\\competitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Competitor.cs",
+              "DocumentMoniker": "Z:\\prog\\12. A aaft\\2026-02-05 LongJump\\LongJump\\LongJump\\Competitor.cs",
+              "RelativeDocumentMoniker": "LongJump\\Competitor.cs",
+              "ToolTip": "Z:\\prog\\12. A aaft\\2026-02-05 LongJump\\LongJump\\LongJump\\Competitor.cs",
+              "RelativeToolTip": "LongJump\\Competitor.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA9wBgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T10:10:09.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Entrieswindow.xaml.cs",
+              "DocumentMoniker": "Z:\\prog\\12. A aaft\\2026-02-05 LongJump\\LongJump\\LongJump\\Entrieswindow.xaml.cs",
+              "RelativeDocumentMoniker": "LongJump\\Entrieswindow.xaml.cs",
+              "ToolTip": "Z:\\prog\\12. A aaft\\2026-02-05 LongJump\\LongJump\\LongJump\\Entrieswindow.xaml.cs",
+              "RelativeToolTip": "LongJump\\Entrieswindow.xaml.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwFgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T09:29:24.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Entrieswindow.xaml",
+              "DocumentMoniker": "Z:\\prog\\12. A aaft\\2026-02-05 LongJump\\LongJump\\LongJump\\Entrieswindow.xaml",
+              "RelativeDocumentMoniker": "LongJump\\Entrieswindow.xaml",
+              "ToolTip": "Z:\\prog\\12. A aaft\\2026-02-05 LongJump\\LongJump\\LongJump\\Entrieswindow.xaml",
+              "RelativeToolTip": "LongJump\\Entrieswindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-05T09:28:05.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "Z:\\prog\\12. A aaft\\2026-02-05 LongJump\\LongJump\\LongJump\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "LongJump\\MainWindow.xaml",
+              "ToolTip": "Z:\\prog\\12. A aaft\\2026-02-05 LongJump\\LongJump\\LongJump\\MainWindow.xaml",
+              "RelativeToolTip": "LongJump\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-05T09:10:08.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "Z:\\prog\\12. A aaft\\2026-02-05 LongJump\\LongJump\\LongJump\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LongJump\\MainWindow.xaml.cs",
+              "ToolTip": "Z:\\prog\\12. A aaft\\2026-02-05 LongJump\\LongJump\\LongJump\\MainWindow.xaml.cs",
+              "RelativeToolTip": "LongJump\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowCEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T09:10:05.8Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

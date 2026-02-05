@@ -1,0 +1,31 @@
+[
+  {
+    "Name": "Sanyi",
+    "Attempts": [
+      5.3,
+      null,
+      3.7,
+      null,
+      null,
+      1
+    ]
+  },
+  {
+    "Name": "Negro",
+    "Attempts": [
+      null,
+      5,
+      null,
+      null,
+      6.7
+    ]
+  },
+  {
+    "Name": "Imre",
+    "Attempts": []
+  },
+  {
+    "Name": "Ferenc",
+    "Attempts": []
+  }
+]
